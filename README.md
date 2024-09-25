@@ -12,7 +12,7 @@
 
 根据对本群建设意见的问卷，大家对主要活动形式的偏好如下
 
-![活动形式调研结果](https://github.com/AyWutiansui/French-Theory-Seminar/blob/main/%E6%B4%BB%E5%8A%A8%E5%BD%A2%E5%BC%8F%E8%B0%83%E7%A0%94%E7%BB%93%E6%9E%9C.png)
+<img src="https://github.com/AyWutiansui/French-Theory-Seminar/blob/main/%E6%B4%BB%E5%8A%A8%E5%BD%A2%E5%BC%8F%E8%B0%83%E7%A0%94%E7%BB%93%E6%9E%9C.png" width="80%">
 
 ##### 1. 研讨班/共读
 
