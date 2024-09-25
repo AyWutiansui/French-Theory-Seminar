@@ -2,7 +2,7 @@
 #### 性质与宗旨
 我们是自发组织的法国理论讨论小组
 #### 我们的志趣
-!(https://github.com/AyWutiansui/French-Theory-Seminar/blob/main/%E5%BF%97%E8%B6%A3%E8%B0%83%E7%A0%94.png)
+![志趣调研结果](https://github.com/AyWutiansui/French-Theory-Seminar/blob/main/%E5%BF%97%E8%B6%A3%E8%B0%83%E7%A0%94.png)
 #### 日志
 2024/9/23 创建法国理论讨论小组群聊并展开预调研
 #### 关于本仓库
