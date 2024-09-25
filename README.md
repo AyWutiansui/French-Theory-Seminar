@@ -6,6 +6,7 @@
 根据Wikipedia的定义“La French Theory est un corpus postmoderne de théories philosophiques, littéraires et sociales, où le concept de déconstruction tient une place centrale, dans la lignée du post-structuralisme.”其明确要求法国理论是一种遵循后结构主义路线，以解构为中心的哲学、文学、社会理论体系，这意味着为了避免法国理论概念的过分扩大，我们将不认为笛卡尔、萨特的理论属于法国理论（虽然他们的思想对法国理论的发展有重要影响），但是这只意味着他们不会是我们活动的主题，大家仍可以在群内讨论关于他们思想的问题（当然也可以讨论其他法国理论的理论来源和论敌的理论）；但是考虑到法国理论的概念是回溯性生成的概念，我们不会严格遵循wikipedia的定义（否则我们可能会失去梅洛庞蒂、马里翁等的现象学进路或莫斯、拉图尔、德斯科拉的人类学进路），并接受提议，将西蒙东、斯蒂格勒等人的技术哲学也纳入法国理论范畴。
 ##### 理论家调研通知与结果
 考虑到列表在不断增长，已经填过问卷的可以再次填写，补选新加入列表的理论家，并在第三个问题中备注“补选”（但恳请大家不要重复选已经选过的，包括填在“其他”中的）
+\\
 ![志趣调研结果](https://github.com/AyWutiansui/French-Theory-Seminar/blob/main/%E5%BF%97%E8%B6%A3%E8%B0%83%E7%A0%94.png)
 #### 日志
 - 2024/9/23 创建法国理论讨论小组群聊并展开预调研
